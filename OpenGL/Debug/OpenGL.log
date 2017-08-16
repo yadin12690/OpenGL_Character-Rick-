@@ -1,0 +1,15 @@
+﻿  OpenGLDlg.cpp
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(197): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(208): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(219): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(342): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(353): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(364): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(375): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(386): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(397): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(408): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(418): warning C4129: 'C': unrecognized character escape sequence
+c:\users\yadin\desktop\final project-graphics(yadinandtal)\opengl\opengldlg.cpp(433): warning C4129: 'F': unrecognized character escape sequence
+  OpenGL.vcxproj -> C:\Users\Yadin\Desktop\Final Project-Graphics(YadinANDTal)\Debug\OpenGL.exe
+  OpenGL.vcxproj -> C:\Users\Yadin\Desktop\Final Project-Graphics(YadinANDTal)\Debug\OpenGL.pdb (Partial PDB)
